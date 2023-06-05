@@ -15,6 +15,13 @@ Although deep learning models are state-of-the-art models in audio classificatio
 from a VGGish network that serves here as the performance upper bound that allows us to quantify the performance differences and to discuss current issues with continual learning in the audio domain. As only little is known about using shallow models or continual learning in the audio domain, we pass on additional techniques like data augmentation and create a simple experimental pipeline that is easy to reproduce. Although our selected algorithms are partially inferior in performance compared to the upper bound, our evaluation on three environmental sound datasets shows promising performance using continual learning for a subset of the dcase2019 challenge dataset and the ESC10 dataset. As we do not address benchmarking in this paper, our study provides a good foundation for further research and computational improvements on shallow and continual learning models for robotic applications in the audio domain.
 
 
+## Datasets
+
+* dcase_icub
+* [ESC10](https://github.com/karolpiczak/ESC-50)
+* [ESC50](https://github.com/karolpiczak/ESC-50)
+
+
 ## <a name="Citing SVOAWP"></a> Citation
 For citing our paper please use the following BibTeX entry:
 ```BibTeX
