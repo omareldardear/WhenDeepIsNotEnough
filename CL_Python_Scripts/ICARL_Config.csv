@@ -1,0 +1,6 @@
+FRAME_SIZE,HOP_LENGTH,N_MELS,applyBallanced,lr_base,wght_decay,momentum,memory_size,idxOfUsedDataSet,batch_size,nb_exp,epochs,lr_milestones_1,lr_milestones_2,lr_factor,seed,modelType,model_hs,opt
+1024,512,60,True,0.1,1E-05,0.9,2000,0,32,4,2,49,63,5,1234,icarlNet,1000,ADAM
+1024,512,60,True,0.2,1E-05,0.9,2000,0,32,4,2,49,63,5,1234,icarlNet,1000,ADAM
+1024,512,60,True,0.3,1E-05,0.9,2000,0,32,4,2,49,63,5,1234,icarlNet,1000,ADAM
+1024,512,60,True,0.4,1E-05,0.9,2000,0,32,4,2,49,63,5,1234,icarlNet,1000,ADAM
+1024,512,60,True,0.5,1E-05,0.9,2000,0,32,4,2,49,63,5,1234,icarlNet,1000,ADAM

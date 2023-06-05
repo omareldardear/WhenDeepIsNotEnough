@@ -1,0 +1,11 @@
+FRAME_SIZE,HOP_LENGTH,N_MELS,applyBallanced,lr_base,wght_decay,momentum,memory_size,idxOfUsedDataSet,eval_batch_size,train_batch_size,replay_buffer_size,nb_exp,epochs,lr_milestones_1,lr_milestones_2,lr_factor,seed,modelType,model_hs,opt
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,6923,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,7615,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,4241,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,3582,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,7588,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,1886,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,2055,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,4847,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,6228,icarlNet,1000,SGD
+1024,512,60,True,2,0.01,2.2,3000,2,128,8,3000,50,20,49,63,5,9401,icarlNet,1000,SGD
