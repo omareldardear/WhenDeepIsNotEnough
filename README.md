@@ -44,7 +44,7 @@ url={https://doi.org/S0219843623500081}
 
 ## License
 
-This work has been published under [CC-by-NC-ND 4.0])(https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+This work has been published under [CC-by-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 
 ## Contact Details
