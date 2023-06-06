@@ -1,7 +1,7 @@
 # WhenDeepIsNotEnough
 When Deep is not Enough: Towards Understanding Shallow and Continual Learning Models in Realistic Environmental Sound Classification for Robots
 
-[![Python 3.8](https://img.shields.io/badge/Python-3.8-3776AB.svg?logo=python)](https://www.python.org/) [![avalanche-lib 0.2.1](https://img.shields.io/badge/Avalance--lib-0.2.1-blue)](https://github.com/ContinualAI/avalanche/tree/v0.2.1) [![tourch 1.13.0](https://img.shields.io/badge/tourch-1.13.0-blue)](https://pytorch.org/) [![MIT](https://img.shields.io/badge/License-MIT-3DA639.svg?logo=open-source-initiative)](LICENSE)
+[![Python 3.8](https://img.shields.io/badge/Python-3.8-3776AB.svg?logo=python)](https://www.python.org/) [![avalanche-lib 0.2.1](https://img.shields.io/badge/Avalance--lib-0.2.1-blue)](https://github.com/ContinualAI/avalanche/tree/v0.2.1) [![tourch 1.13.0](https://img.shields.io/badge/tourch-1.13.0-blue)](https://pytorch.org/)
 
 
 This repository provides the official implementation of the paper:
@@ -41,5 +41,20 @@ url={https://doi.org/S0219843623500081}
 }
 ```
 ---
+
+## License
+
+This work has been published under [CC-by-NC-ND 4.0])(https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
+
+## Contact Details
+
+
+Omar Eldardeer
+* [Twitter](https://twitter.com/omareldardear)
+* [Google Scholar](https://scholar.google.com/citations?user=2xry9p8AAAAJ&hl)
+* [Linkedin](https://www.linkedin.com/in/omar-eldardear/)
+* [Website](https://www.iit.it/people/omar-eldardeer )
+
 
 Note: The code this work is based on was developed during my PhD thesis (2022).
